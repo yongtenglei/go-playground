@@ -1,0 +1,15 @@
+package main
+
+func longestPalindrome(s string) string {
+	if len(s) == 1 {
+		return s
+	}
+
+
+
+}
+
+func isPalindrome(s string) bool {
+
+
+}

@@ -1,0 +1,2 @@
+{"level":"INFO","time":"2021-09-21T20:27:19.560+0800","caller":"app/main.go:90","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-21T20:27:19.562+0800","caller":"app/main.go:99","msg":"Server exiting"}

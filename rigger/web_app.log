@@ -1,0 +1,36 @@
+{"level":"ERROR","time":"2021-09-20T21:53:22.037+0800","caller":"rigger/main.go:46","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"ERROR","time":"2021-09-20T21:53:36.053+0800","caller":"rigger/main.go:46","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"ERROR","time":"2021-09-20T21:57:50.500+0800","caller":"rigger/main.go:46","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"ERROR","time":"2021-09-20T22:00:19.821+0800","caller":"rigger/main.go:46","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"ERROR","time":"2021-09-20T22:01:25.395+0800","caller":"rigger/main.go:46","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"ERROR","time":"2021-09-20T22:01:42.023+0800","caller":"rigger/main.go:46","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"ERROR","time":"2021-09-20T22:03:04.965+0800","caller":"rigger/main.go:49","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"ERROR","time":"2021-09-20T22:06:28.548+0800","caller":"rigger/main.go:49","msg":"Init Redis failed\n","error":"dial tcp 127.0.0.1:0: connect: connection refused"}
+{"level":"INFO","time":"2021-09-20T22:09:09.643+0800","caller":"rigger/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-20T22:09:09.644+0800","caller":"rigger/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2021-09-20T22:10:06.291+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000020298}
+{"level":"INFO","time":"2021-09-20T22:10:06.478+0800","caller":"logger/logger.go:71","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000000951}
+{"level":"INFO","time":"2021-09-20T22:14:47.726+0800","caller":"rigger/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-20T22:14:47.728+0800","caller":"rigger/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2021-09-20T22:25:11.404+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000051005}
+{"level":"INFO","time":"2021-09-20T22:25:13.161+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000023789}
+{"level":"INFO","time":"2021-09-20T22:25:13.727+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000018699}
+{"level":"INFO","time":"2021-09-20T22:25:14.029+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000026236}
+{"level":"INFO","time":"2021-09-20T22:25:14.382+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.00002925}
+{"level":"INFO","time":"2021-09-20T22:25:14.664+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000028991}
+{"level":"INFO","time":"2021-09-20T22:25:15.007+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000034555}
+{"level":"INFO","time":"2021-09-20T22:25:24.907+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.00001935}
+{"level":"INFO","time":"2021-09-20T22:25:25.755+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000023051}
+{"level":"INFO","time":"2021-09-20T22:25:31.216+0800","caller":"logger/logger.go:71","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0","errors":"","cost":0.000019036}
+{"level":"INFO","time":"2021-09-20T22:26:07.874+0800","caller":"rigger/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-20T22:26:07.875+0800","caller":"rigger/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2021-09-20T22:49:28.956+0800","caller":"rigger/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-20T22:49:28.957+0800","caller":"rigger/main.go:90","msg":"Server exiting"}
+{"level":"ERROR","time":"2021-09-21T20:21:29.758+0800","caller":"mysql/mysql.go:25","msg":"Connect mysql failed","error":"Error 1049: Unknown database 'test'"}
+{"level":"ERROR","time":"2021-09-21T20:21:29.758+0800","caller":"rigger/main.go:41","msg":"Init Mysql failed\n","error":"Error 1049: Unknown database 'test'"}
+{"level":"ERROR","time":"2021-09-21T20:21:46.607+0800","caller":"mysql/mysql.go:25","msg":"Connect mysql failed","error":"Error 1049: Unknown database 'test'"}
+{"level":"ERROR","time":"2021-09-21T20:21:46.607+0800","caller":"rigger/main.go:41","msg":"Init Mysql failed\n","error":"Error 1049: Unknown database 'test'"}
+{"level":"ERROR","time":"2021-09-21T20:21:51.322+0800","caller":"mysql/mysql.go:25","msg":"Connect mysql failed","error":"Error 1049: Unknown database 'test'"}
+{"level":"ERROR","time":"2021-09-21T20:21:51.322+0800","caller":"rigger/main.go:41","msg":"Init Mysql failed\n","error":"Error 1049: Unknown database 'test'"}
+{"level":"ERROR","time":"2021-09-21T20:22:33.637+0800","caller":"mysql/mysql.go:25","msg":"Connect mysql failed","error":"Error 1049: Unknown database 'test'"}
+{"level":"ERROR","time":"2021-09-21T20:22:33.637+0800","caller":"rigger/main.go:41","msg":"Init Mysql failed\n","error":"Error 1049: Unknown database 'test'"}

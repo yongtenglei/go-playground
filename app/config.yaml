@@ -1,0 +1,31 @@
+app:
+  name: "web_app"
+  mode: "dev"
+  version: "0.0.1"
+  port: 8093
+  language: "zh"
+  start_time: "2021-09-22"
+  machine_id: 1
+
+log:
+  level: "debug"
+  filename: "web_app.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "1"
+  dbname: "website"
+  max_open_conns: 200
+  max_idle_conns: 50
+
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+  db:
+  poll_size: 100

@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option go_package="./;Hello_GRPC";
+
+package Hello_GRPC;
+
+message Req {
+  string message = 1;
+}
+
+// TODO(rey): Describe this message.
+message Res {
+  string message = 1;
+
+  // Next available id: 1
+}
+
+service HelloGRPC {
+  rpc SayHi(Req) returns (Res);
+}

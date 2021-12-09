@@ -1,0 +1,23 @@
+app:
+  name: "my_bubble"
+  mode: "dev"
+  version: "0.0.1"
+  language: "zh"
+  port: 8090
+
+log:
+  level: "debug"
+  filename: "my_bubble.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+
+mysql:
+  host: "121.40.151.71"
+  user: "rey"
+  password: "1"
+  dbname: "my_bubble"
+  port: 3306
+  max_open_conns: 200
+  max_idle_conns: 50
+  max_life_time: 3600 # 60 * 60s = 3600s
